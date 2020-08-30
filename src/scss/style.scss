@@ -50,6 +50,8 @@ body{
   justify-content: center;
   height: 50%;
   width: 50%;
+  min-height: 200px;
+  overflow: hidden;
 
   &:first-of-type{ background-color: var(--deep-blue); }
 

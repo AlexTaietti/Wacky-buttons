@@ -46,7 +46,9 @@ body {
   align-items: center;
   justify-content: center;
   height: 50%;
-  width: 50%; }
+  width: 50%;
+  min-height: 200px;
+  overflow: hidden; }
   .button-container:first-of-type {
     background-color: var(--deep-blue); }
   .button-container:nth-of-type(2) {
