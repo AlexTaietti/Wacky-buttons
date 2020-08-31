@@ -68,7 +68,8 @@ body {
   height: var(--btn-height);
   width: var(--btn-width);
   font-size: 1.6rem;
-  color: black; }
+  color: black;
+  cursor: pointer; }
   .button--glow {
     border-radius: 40px;
     font-size: 2rem;
